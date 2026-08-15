@@ -4,13 +4,13 @@ A lightweight Java application designed to model, filter, and display menu items
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This program creates a blueprint for restaurant menu items (`Khanaghar` class) and executes custom searches over an array of menu objects (`KhanaGharMenu` class). It allows management to view items based on specific requirements, such as dietary preferences, price points, and item availability.
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Custom Blueprint (`Khanaghar` Class):** Attributes include item name, price, category, vegetarian status, and availability status.
 * **Formatted String Output:** Overridden `toString()` method for clean data representation.
@@ -22,7 +22,7 @@ This program creates a blueprint for restaurant menu items (`Khanaghar` class) a
 
 ---
 
-## 🛠️ Code Structure
+##  Code Structure
 
 | File / Class | Description |
 | :--- | :--- |
@@ -31,7 +31,7 @@ This program creates a blueprint for restaurant menu items (`Khanaghar` class) a
 
 ---
 
-## 📋 Sample Menu Data
+##  Sample Menu Data
 
 The system initializes with popular traditional Nepalese menu items:
 
@@ -41,7 +41,7 @@ The system initializes with popular traditional Nepalese menu items:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the Repository:**
    ```bash
